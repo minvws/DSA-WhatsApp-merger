@@ -1,0 +1,3 @@
+# * @minvws/replace-me-with-some-codeowner-group
+# Last match takes precedence
+.github/CODEOWNERS @minvws/irealisatie-operations
