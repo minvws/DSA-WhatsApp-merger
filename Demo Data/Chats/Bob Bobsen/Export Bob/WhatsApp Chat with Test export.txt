@@ -1,0 +1,87 @@
+5/2/22, 16:08 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+5/2/22, 16:08 - Alice created group "Test export"
+5/2/22, 16:08 - Alice added you
+5/2/22, 16:08 - Alice: Hoi, ik heb de chat gemaakt
+5/2/22, 16:08 - Alice: Ik heb een android en het is 16:08:45
+5/2/22, 16:09 - Alice: De taal is ingesteld op: Nederlands
+5/2/22, 16:09 - Bob: Ik heb een Android en het is nu 16:09
+5/2/22, 16:09 - Bob: De taal is ingesteld op: Engels
+5/2/22, 16:09 - +31 6 22222222: Ik heb een Android en het is nu 16:10
+5/2/22, 16:10 - +31 6 22222222: De taal is ingesteld op: Nederlands
+5/2/22, 16:11 - Alice added +31 6 33333333
+5/2/22, 16:12 - +31 6 33333333: Ik heb een iPhone en het is nu 16.12
+5/2/22, 16:12 - +31 6 33333333: De taal is ingesteld op: Nederlands
+5/2/22, 16:13 - Alice: This message was deleted
+5/2/22, 16:14 - +31 6 22222222: Dit is een reactie op coens te verwijderen bericht
+5/2/22, 16:15 - +31 6 33333333: Omdat ik een iPhone heb verwijder ik dit bericht alleen voor mijzelf na 1 minuut
+5/2/22, 16:15 - +31 6 33333333: This message was deleted
+5/2/22, 16:15 - +31 6 22222222: Dit is een reactie op het eerste bericht in de chat
+5/2/22, 16:15 - Bob: [5/2, 16:08] Alice: Hoi, ik heb de chat gemaakt
+[5/2, 16:08] Alice: Ik heb een android en het is 16:08:45
+[5/2, 16:09] Alice: De taal is ingesteld op: Nederlands
+[5/2, 16:09] Bob: Ik heb een Android en het is nu 16:09
+[5/2, 16:09] Bob: De taal is ingesteld op: Engels
+5/2/22, 16:16 - Alice: Haha, nou ik waardeer de duidelijkheid wel 😅
+5/2/22, 16:17 - Bob: IMG-20220502-WA0002.jpg (file attached)
+Dit is een foto
+5/2/22, 16:17 - +31 6 33333333: This message was deleted
+5/2/22, 16:18 - Alice: <Media omitted>
+5/2/22, 16:18 - +31 6 22222222: <Media omitted>
+Manifesto.pdf
+5/2/22, 16:20 - +31 6 33333333: Ik ga nu op vliegtuig stand voor 5 minuten
+5/2/22, 16:20 - Bob: Ik ga ook op vliegtuigstand voor 5 minuten
+5/2/22, 16:24 - Bob: Ik stuur ook een bericht terwijl ik in vliegtuigstand ben
+5/2/22, 16:20 - Alice: Top dat gaan we doen!
+5/2/22, 16:20 - +31 6 22222222: Snel bericht 1
+5/2/22, 16:21 - Alice: Komt een vis bij de dokter,
+
+Zegt de dokter: "ah ik zie het al: Uit de kom"
+5/2/22, 16:21 - +31 6 22222222: Bericht 2
+Met
+Enters
+5/2/22, 16:21 - +31 6 22222222: Goeie grap
+5/2/22, 16:21 - Alice: Waarom dan?
+5/2/22, 16:21 - +31 6 22222222: 😂
+5/2/22, 16:22 - Alice: <Media omitted>
+5/2/22, 16:22 - +31 6 22222222: alpha
+5/2/22, 16:23 - Alice: 1
+5/2/22, 16:23 - Alice: W
+5/2/22, 16:23 - Alice: E
+5/2/22, 16:23 - Alice: T
+5/2/22, 16:23 - Alice: Y
+5/2/22, 16:23 - Alice: U
+5/2/22, 16:23 - Alice: I
+5/2/22, 16:23 - Alice: 1
+5/2/22, 16:23 - +31 6 22222222: 1
+5/2/22, 16:23 - +31 6 22222222: 2
+5/2/22, 16:23 - Alice: 2
+5/2/22, 16:23 - +31 6 22222222: 3
+5/2/22, 16:23 - +31 6 22222222: 4
+5/2/22, 16:23 - +31 6 22222222: 5
+5/2/22, 16:23 - +31 6 22222222: 6
+5/2/22, 16:23 - +31 6 22222222: 7
+5/2/22, 16:23 - Alice: 3
+5/2/22, 16:23 - +31 6 22222222: 8
+5/2/22, 16:23 - +31 6 22222222: 9
+5/2/22, 16:23 - Alice: 4
+5/2/22, 16:23 - +31 6 22222222: 10
+5/2/22, 16:23 - Alice: 5
+5/2/22, 16:23 - Alice: 6
+5/2/22, 16:23 - Alice: 7
+5/2/22, 16:23 - Alice: 8
+5/2/22, 16:23 - Alice: 9
+5/2/22, 16:23 - Alice: 10
+5/2/22, 16:25 - +31 6 22222222: Dit is een bericht nadat de vliegtuigstandberichten zijn verstuurd
+5/2/22, 16:25 - +31 6 33333333: Ik stuur een bericht terwijl ik in vliegtuigstand ben
+5/2/22, 16:25 - +31 6 33333333: Ik heb de vliegtuigstand weer uitgezet
+5/2/22, 16:26 - Bob: Ik heb vliegtuigstand weer uitgezet
+5/2/22, 16:28 - Alice left
+5/2/22, 16:29 - +31 6 33333333: Hey nu ben ik admin
+5/2/22, 16:29 - +31 6 33333333: Ik verlaat nu het gesprek
+5/2/22, 16:29 - +31 6 33333333 left
+5/2/22, 16:30 - +31 6 22222222: Hey, nu ben ik Admin
+5/2/22, 16:33 - +31 6 22222222 added Alice
+5/2/22, 16:33 - +31 6 22222222 added +31 6 33333333
+5/2/22, 16:33 - Alice: Dit is het einde van het script
+5/2/22, 16:35 - +31 6 22222222: Wat jammer zeg, ik vond het zo gezellig
+5/2/22, 16:37 - Bob: Tja, het kan niet eeuwig duren
