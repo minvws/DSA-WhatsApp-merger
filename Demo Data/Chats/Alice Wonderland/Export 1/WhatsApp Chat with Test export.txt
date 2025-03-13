@@ -1,0 +1,78 @@
+5/1/22, 16:08 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+5/2/22, 16:08 - You created group "Test export"
+5/2/22, 16:08 - Alice: Hoi, ik heb de chat gemaakt
+5/2/22, 16:08 - Alice: Ik heb een android en het is 16:08:45
+5/2/22, 16:09 - Alice: De taal is ingesteld op: Nederlands
+5/2/22, 16:09 - Bob Bobsen Work: Ik heb een Android en het is nu 16:09
+5/2/22, 16:09 - Bob Bobsen Work: De taal is ingesteld op: Engels
+5/2/22, 16:10 - Carol Christmas Work: Ik heb een Android en het is nu 16:10
+5/2/22, 16:10 - Carol Christmas Work: De taal is ingesteld op: Nederlands
+5/2/22, 16:11 - Dave Privé joined using your invite
+5/2/22, 16:12 - Dave Privé: Ik heb een iPhone en het is nu 16.12
+5/2/22, 16:12 - Dave Privé: De taal is ingesteld op: Nederlands
+5/2/22, 16:12 - Bob Bobsen Work: Ik verwijder dit bericht alleen voor mijzelf na 1 minuut
+5/2/22, 16:13 - Alice: You deleted this message
+5/2/22, 16:14 - Carol Christmas Work: Dit is een reactie op coens te verwijderen bericht 
+5/2/22, 16:15 - Dave Privé: Omdat ik een iPhone heb verwijder ik dit bericht alleen voor mijzelf na 1 minuut
+5/2/22, 16:15 - Dave Privé: This message was deleted
+5/2/22, 16:15 - Carol Christmas Work: Dit is een reactie op het eerste bericht in de chat
+5/2/22, 16:15 - Bob Bobsen Work: [5/2, 16:08] Alice: Hoi, ik heb de chat gemaakt
+[5/2, 16:08] Alice: Ik heb een android en het is 16:08:45
+[5/2, 16:09] Alice: De taal is ingesteld op: Nederlands
+[5/2, 16:09] Bob: Ik heb een Android en het is nu 16:09
+[5/2, 16:09] Bob: De taal is ingesteld op: Engels
+5/2/22, 16:16 - Alice: Haha, nou ik waardeer de duidelijkheid wel 😅
+5/2/22, 16:17 - Bob Bobsen Work: IMG-20220502-WA0003.jpg (file attached)
+Dit is een foto
+5/2/22, 16:17 - Dave Privé: This message was deleted
+5/2/22, 16:18 - Alice: IMG-20220502-WA0005.jpg (file attached)
+5/2/22, 16:18 - Carol Christmas Work: Manifesto.pdf (file attached)
+Manifesto.pdf
+5/2/22, 16:20 - Dave Privé: Ik ga nu op vliegtuig stand voor 5 minuten
+5/2/22, 16:20 - Bob Bobsen Work: Ik ga ook op vliegtuigstand voor 5 minuten
+5/2/22, 16:20 - Alice: Top dat gaan we doen!
+5/2/22, 16:20 - Carol Christmas Work: Snel bericht 1
+5/2/22, 16:21 - Alice: Komt een vis bij de dokter,
+
+Zegt de dokter: "ah ik zie het al: Uit de kom"
+5/2/22, 16:21 - Carol Christmas Work: Bericht 2
+Met
+Enters
+5/2/22, 16:21 - Carol Christmas Work: Goeie grap
+5/2/22, 16:21 - Alice: Waarom dan?
+5/2/22, 16:21 - Carol Christmas Work: 😂
+5/2/22, 16:22 - Alice: IMG-20220502-WA0006.jpg (file attached)
+5/2/22, 16:22 - Carol Christmas Work: alpha
+5/2/22, 16:23 - Alice: 1
+5/2/22, 16:23 - Alice: W
+5/2/22, 16:23 - Alice: E
+5/2/22, 16:23 - Alice: T
+5/2/22, 16:23 - Alice: Y
+5/2/22, 16:23 - Alice: U
+5/2/22, 16:23 - Alice: I
+5/2/22, 16:23 - Alice: 1
+5/2/22, 16:23 - Carol Christmas Work: 1
+5/2/22, 16:23 - Carol Christmas Work: 2
+5/2/22, 16:23 - Alice: 2
+5/2/22, 16:23 - Carol Christmas Work: 3
+5/2/22, 16:23 - Carol Christmas Work: 4
+5/2/22, 16:23 - Carol Christmas Work: 5
+5/2/22, 16:23 - Alice: 3
+5/2/22, 16:23 - Carol Christmas Work: 6
+5/2/22, 16:23 - Carol Christmas Work: 7
+5/2/22, 16:23 - Carol Christmas Work: 8
+5/2/22, 16:23 - Alice: 4
+5/2/22, 16:23 - Carol Christmas Work: 9
+5/2/22, 16:23 - Carol Christmas Work: 10
+5/2/22, 16:23 - Alice: 5
+5/2/22, 16:23 - Alice: 6
+5/2/22, 16:23 - Alice: 7
+5/2/22, 16:23 - Alice: 8
+5/2/22, 16:23 - Alice: 9
+5/2/22, 16:23 - Alice: 10
+5/2/22, 16:25 - Carol Christmas Work: Dit is een bericht nadat de vliegtuigstandberichten zijn verstuurd
+5/2/22, 16:25 - Dave Privé: Ik stuur een bericht terwijl ik in vliegtuigstand ben
+5/2/22, 16:25 - Dave Privé: Ik heb de vliegtuigstand weer uitgezet
+5/2/22, 16:26 - Bob Bobsen Work: Ik stuur ook een berichtterwijl ik in vliegtuigstand ben
+5/2/22, 16:26 - Bob Bobsen Work: Ik heb vliegtuigstand weer uitgezet
+5/2/22, 16:28 - You left

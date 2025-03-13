@@ -1,0 +1,83 @@
+[02-05-2022 16:08:13] Test export nieuwe naam: ‎Berichten en gesprekken worden end-to-end versleuteld. Niemand buiten deze chat kan ze lezen of beluisteren, zelfs WhatsApp niet.
+[02-05-2022 16:08:13] ‎‪+31 6 12345678‬ heeft deze groep aangemaakt
+[02-05-2022 16:11:34] ‎+31 6 12345678 heeft u toegevoegd
+[02-05-2022 16:12:20] Dave: Ik heb een iPhone en het is nu 16.12
+[02-05-2022 16:12:32] Dave: De taal is ingesteld op: Nederlands
+[02-05-2022 16:12:42] ‪+31 6 11111111‬: Ik verwijder dit bericht alleen voor mijzelf na 1 minuut
+[02-05-2022 16:13:25] ‪+31 6 12345678‬: ‎Dit bericht is verwijderd.
+[02-05-2022 16:14:39] ‪+31 6 22222222‬: Dit is een reactie op coens te verwijderen bericht
+[02-05-2022 16:15:25] Dave: ‎U hebt dit bericht verwijderd.
+[02-05-2022 16:15:34] ‪+31 6 22222222‬: Dit is een reactie op het eerste bericht in de chat
+[02-05-2022 16:15:54] ‪+31 6 11111111‬: [5/2, 16:08] Coen Goedhart: Hoi, ik heb de chat gemaakt
+[5/2, 16:08] Coen Goedhart: Ik heb een android en het is 16:08:45
+[5/2, 16:09] Coen Goedhart: De taal is ingesteld op: Nederlands
+[5/2, 16:09] Bob: Ik heb een Android en het is nu 16:09
+[5/2, 16:09] Bob: De taal is ingesteld op: Engels
+[02-05-2022 16:16:33] ‪+31 6 12345678‬: Haha, nou ik waardeer de duidelijkheid wel 😅
+‎[02-05-2022 16:17:01] ‪+31 6 11111111‬: ‎<bijgevoegd: 00000014-PHOTO-2022-05-02-16-17-01.jpg>
+[02-05-2022 16:17:22] Dave: ‎U hebt dit bericht verwijderd.
+‎[02-05-2022 16:18:16] ‪+31 6 12345678‬: ‎<bijgevoegd: 00000016-PHOTO-2022-05-02-16-18-16.jpg>
+‎[02-05-2022 16:18:34] ‪+31 6 22222222‬: Manifesto.pdf • ‎116 pagina's ‎<bijgevoegd: 00000017-Manifesto.pdf>
+[02-05-2022 16:20:02] Dave: Ik ga nu op vliegtuig stand voor 5 minuten
+[02-05-2022 16:24:29] Dave: Ik stuur een bericht terwijl ik in vliegtuigstand ben
+[02-05-2022 16:20:12] ‪+31 6 11111111‬: Ik ga ook op vliegtuigstand voor 5 minuten
+[02-05-2022 16:20:46] ‪+31 6 12345678‬: Top dat gaan we doen!
+[02-05-2022 16:20:57] ‪+31 6 22222222‬: Snel bericht 1
+[02-05-2022 16:21:27] ‪+31 6 12345678‬: Komt een vis bij de dokter,
+
+Zegt de dokter: "ah ik zie het al: Uit de kom"
+[02-05-2022 16:21:32] ‪+31 6 22222222‬: Bericht 2
+Met
+Enters
+[02-05-2022 16:21:38] ‪+31 6 22222222‬: Goeie grap
+[02-05-2022 16:21:39] ‪+31 6 12345678‬: Waarom dan?
+[02-05-2022 16:21:51] ‪+31 6 22222222‬: 😂
+‎[02-05-2022 16:22:23] ‪+31 6 12345678‬: ‎<bijgevoegd: 00000028-PHOTO-2022-05-02-16-22-23.jpg>
+[02-05-2022 16:22:54] ‪+31 6 22222222‬: alpha
+[02-05-2022 16:23:04] ‪+31 6 12345678‬: 1
+[02-05-2022 16:23:05] ‪+31 6 12345678‬: W
+[02-05-2022 16:23:05] ‪+31 6 12345678‬: E
+[02-05-2022 16:23:06] ‪+31 6 12345678‬: T
+[02-05-2022 16:23:06] ‪+31 6 12345678‬: Y
+[02-05-2022 16:23:06] ‪+31 6 12345678‬: U
+[02-05-2022 16:23:07] ‪+31 6 12345678‬: I
+[02-05-2022 16:23:21] ‪+31 6 12345678‬: 1
+[02-05-2022 16:23:22] ‪+31 6 22222222‬: 1
+[02-05-2022 16:23:22] ‪+31 6 22222222‬: 2
+[02-05-2022 16:23:22] ‪+31 6 12345678‬: 2
+[02-05-2022 16:23:22] ‪+31 6 22222222‬: 3
+[02-05-2022 16:23:23] ‪+31 6 22222222‬: 4
+[02-05-2022 16:23:23] ‪+31 6 22222222‬: 5
+[02-05-2022 16:23:23] ‪+31 6 22222222‬: 6
+[02-05-2022 16:23:24] ‪+31 6 22222222‬: 7
+[02-05-2022 16:23:24] ‪+31 6 12345678‬: 3
+[02-05-2022 16:23:24] ‪+31 6 22222222‬: 8
+[02-05-2022 16:23:25] ‪+31 6 22222222‬: 9
+[02-05-2022 16:23:25] ‪+31 6 12345678‬: 4
+[02-05-2022 16:23:25] ‪+31 6 22222222‬: 10
+[02-05-2022 16:23:26] ‪+31 6 12345678‬: 5
+[02-05-2022 16:23:27] ‪+31 6 12345678‬: 6
+[02-05-2022 16:23:29] ‪+31 6 12345678‬: 7
+[02-05-2022 16:23:36] ‪+31 6 12345678‬: 8
+[02-05-2022 16:23:38] ‪+31 6 12345678‬: 9
+[02-05-2022 16:23:40] ‪+31 6 12345678‬: 10
+[02-05-2022 16:25:05] ‪+31 6 22222222‬: Dit is een bericht nadat de vliegtuigstandberichten zijn verstuurd
+[02-05-2022 16:25:51] Dave: Ik heb de vliegtuigstand weer uitgezet
+[02-05-2022 16:26:06] ‪+31 6 11111111‬: Ik stuur ook een bericht terwijl ik in vliegtuigstand ben
+[02-05-2022 16:26:29] ‪+31 6 11111111‬: Ik heb vliegtuigstand weer uitgezet
+[02-05-2022 16:27:56] ‎U bent nu een beheerder
+[02-05-2022 16:28:11] ‎‪+31 6 12345678‬ heeft de groep verlaten
+[02-05-2022 16:29:20] Dave: Hey nu ben ik admin
+[02-05-2022 16:29:31] Dave: Ik verlaat nu het gesprek
+[02-05-2022 16:29:40] ‎U hebt de groep verlaten
+[02-05-2022 16:33:38] ‎+31 6 22222222 heeft u toegevoegd
+[02-05-2022 16:33:39] ‎‪+31 6 12345678‬ is toegevoegd
+[02-05-2022 16:33:44] ‪+31 6 12345678‬: Dit is het einde van het script
+[02-05-2022 16:35:04] ‪+31 6 22222222‬: Wat jammer zeg, ik vond het zo gezellig
+[02-05-2022 16:37:14] ‪+31 6 11111111‬: Tja, het kan niet eeuwig duren
+[02-05-2022 16:41:29] ‎‪+31 6 11111111‬ heeft de groep verlaten
+[02-05-2022 16:43:26] ‎+31 6 22222222 heeft ‪+31 6 11111111‬ toegevoegd
+[02-05-2022 16:43:50] ‪+31 6 11111111‬: Ik ben er weer
+[02-05-2022 16:44:04] ‎‪+31 6 12345678‬ heeft het onderwerp gewijzigd naar “Test export nieuwe naam”
+[02-05-2022 16:44:19] ‎‪+31 6 12345678‬ heeft de groepsafbeelding gewijzigd
+[02-05-2022 16:44:36] Dave: Toedels
