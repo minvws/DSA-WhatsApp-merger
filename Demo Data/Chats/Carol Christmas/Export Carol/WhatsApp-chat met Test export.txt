@@ -1,0 +1,88 @@
+02-05-2022 16:08 - Berichten en oproepen worden end-to-end versleuteld. Niemand buiten deze chat kan ze lezen of beluisteren, zelfs WhatsApp niet. Tik voor meer informatie.
+02-05-2022 16:08 - ‎Alice heeft de groep Test export gemaakt
+02-05-2022 16:08 - ‎Alice heeft u toegevoegd
+02-05-2022 16:08 - Alice: Hoi, ik heb de chat gemaakt
+02-05-2022 16:08 - Alice: Ik heb een android en het is 16:08:45
+02-05-2022 16:09 - Alice: De taal is ingesteld op: Nederlands
+02-05-2022 16:09 - +31 6 11111111: Ik heb een Android en het is nu 16:09
+02-05-2022 16:09 - +31 6 11111111: De taal is ingesteld op: Engels
+02-05-2022 16:10 - Carol: Ik heb een Android en het is nu 16:10
+02-05-2022 16:10 - Carol: De taal is ingesteld op: Nederlands
+02-05-2022 16:11 - ‎Alice heeft Dave toegevoegd
+02-05-2022 16:12 - Dave: Ik heb een iPhone en het is nu 16.12
+02-05-2022 16:12 - Dave: De taal is ingesteld op: Nederlands
+02-05-2022 16:12 - +31 6 11111111: Ik verwijder dit bericht alleen voor mijzelf na 1 minuut
+02-05-2022 16:13 - Alice: Dit bericht is verwijderd
+02-05-2022 16:14 - Carol: Dit is een reactie op coens te verwijderen bericht
+02-05-2022 16:15 - Dave: Omdat ik een iPhone heb verwijder ik dit bericht alleen voor mijzelf na 1 minuut
+02-05-2022 16:15 - Dave: Dit bericht is verwijderd
+02-05-2022 16:15 - Carol: Dit is een reactie op het eerste bericht in de chat
+02-05-2022 16:15 - +31 6 11111111: [5/2, 16:08] Alice: Hoi, ik heb de chat gemaakt
+[5/2, 16:08] Alice: Ik heb een android en het is 16:08:45
+[5/2, 16:09] Alice: De taal is ingesteld op: Nederlands
+[5/2, 16:09] Bob: Ik heb een Android en het is nu 16:09
+[5/2, 16:09] Bob: De taal is ingesteld op: Engels
+02-05-2022 16:16 - Alice: Haha, nou ik waardeer de duidelijkheid wel 😅
+02-05-2022 16:17 - +31 6 11111111: ‎IMG-20220502-WA0001.jpg (bestand bijgevoegd)
+Dit is een foto
+02-05-2022 16:17 - Dave: Dit bericht is verwijderd
+02-05-2022 16:18 - Alice: ‎IMG-20220502-WA0005.jpg (bestand bijgevoegd)
+02-05-2022 16:18 - Carol: ‎DOC-20220502-WA0006. (bestand bijgevoegd)
+Manifesto.pdf
+02-05-2022 16:20 - Dave: Ik ga nu op vliegtuig stand voor 5 minuten
+02-05-2022 16:20 - +31 6 11111111: Ik ga ook op vliegtuigstand voor 5 minuten
+02-05-2022 16:20 - Alice: Top dat gaan we doen!
+02-05-2022 16:20 - Carol: Snel bericht 1
+02-05-2022 16:21 - Alice: Komt een vis bij de dokter,
+
+Zegt de dokter: "ah ik zie het al: Uit de kom"
+02-05-2022 16:21 - Carol: Bericht 2
+Met
+Enters
+02-05-2022 16:21 - Carol: Goeie grap
+02-05-2022 16:21 - Alice: Waarom dan?
+02-05-2022 16:21 - Carol: 😂
+02-05-2022 16:22 - Alice: ‎IMG-20220502-WA0007.jpg (bestand bijgevoegd)
+02-05-2022 16:22 - Carol: alpha
+02-05-2022 16:23 - Alice: 1
+02-05-2022 16:23 - Alice: W
+02-05-2022 16:23 - Alice: E
+02-05-2022 16:23 - Alice: T
+02-05-2022 16:23 - Alice: Y
+02-05-2022 16:23 - Alice: U
+02-05-2022 16:23 - Alice: I
+02-05-2022 16:23 - Alice: 1
+02-05-2022 16:23 - Carol: 1
+02-05-2022 16:23 - Carol: 2
+02-05-2022 16:23 - Alice: 2
+02-05-2022 16:23 - Carol: 3
+02-05-2022 16:23 - Carol: 4
+02-05-2022 16:23 - Carol: 5
+02-05-2022 16:23 - Carol: 6
+02-05-2022 16:23 - Carol: 7
+02-05-2022 16:23 - Alice: 3
+02-05-2022 16:23 - Carol: 8
+02-05-2022 16:23 - Carol: 9
+02-05-2022 16:23 - Alice: 4
+02-05-2022 16:23 - Carol: 10
+02-05-2022 16:23 - Alice: 5
+02-05-2022 16:23 - Alice: 6
+02-05-2022 16:23 - Alice: 7
+02-05-2022 16:23 - Alice: 8
+02-05-2022 16:23 - Alice: 9
+02-05-2022 16:23 - Alice: 10
+02-05-2022 16:25 - Carol: Dit is een bericht nadat de vliegtuigstandberichten zijn verstuurd
+02-05-2022 16:25 - Dave: Ik stuur een bericht terwijl ik in vliegtuigstand ben
+02-05-2022 16:25 - Dave: Ik heb de vliegtuigstand weer uitgezet
+02-05-2022 16:26 - +31 6 11111111: Ik stuur ook een bericht terwijl ik in vliegtuigstand ben
+02-05-2022 16:26 - +31 6 11111111: Ik heb vliegtuigstand weer uitgezet
+02-05-2022 16:28 - ‎Alice heeft de groep verlaten
+02-05-2022 16:29 - Dave: Hey nu ben ik admin
+02-05-2022 16:29 - Dave: Ik verlaat nu het gesprek
+02-05-2022 16:29 - ‎Dave heeft de groep verlaten
+02-05-2022 16:29 - U bent nu beheerder
+02-05-2022 16:30 - Carol: Hey, nu ben ik Admin
+02-05-2022 16:33 - U hebt Alice toegevoegd
+02-05-2022 16:33 - ‎Dave neemt deel via uw uitnodiging
+02-05-2022 16:33 - Alice: Dit is het einde van het script
+02-05-2022 16:35 - Carol: Wat jammer zeg, ik vond het zo gezellig
